@@ -1,16 +1,16 @@
 ### Hi there 👋
+### Welcome to my github profile!
 
-<!--
-**vlade1k/vlade1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
+* Bogdanov Vladislav 
+* 19 y.o.
+* Student(Software Engineer)
+* From Russia
 
-Here are some ideas to get you started:
+### Participation in projects:
+* [Eternal Darkness](https://vk.com/eternaldarknessmc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links:
+* [VK-PROFILE](https://vk.com/vlade1k) <br>
+
+
