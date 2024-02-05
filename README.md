@@ -6,6 +6,7 @@ About me:
 * 19 y.o.
 * Student(Software Engineer)
 * From Russia
+* Java trainee
 
 ### Participation in projects:
 * [Eternal Darkness](https://vk.com/eternaldarknessmc)
