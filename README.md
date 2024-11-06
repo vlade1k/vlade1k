@@ -3,10 +3,10 @@
 
 About me:
 * Bogdanov Vladislav 
-* 19 y.o.
+* 20 y.o.
 * Student(Software Engineer)
 * From Russia
-* Java trainee
+* Java DevRel junior
 
 ### Participation in projects:
 * [Eternal Darkness](https://vk.com/eternaldarknessmc)
