@@ -6,4 +6,4 @@ About me:
 * 21 y.o.
 * Student (Software Engineer)
 * Was born in Russia
-* Middle Java Developer Advocate
+* Middle Developer Advocate, Java developer in [PVS-Studio](https://pvs-studio.com/en/)
